@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "913150797632",
+    "project_id": "leadger-171f8",
+    "storage_bucket": "leadger-171f8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913150797632:android:87e5d4eb80eea4f4c5fca5",
+        "android_client_info": {
+          "package_name": "com.simpleledgerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913150797632-nv2ruir0kgjulmgpicjuplpar30ueiie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simpleledgerapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "913150797632-glmorbmcvca4ustmt06qhleqkgito7ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnEsb70PJ6ET0bNFAqa3tKMznDSXud_fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913150797632-glmorbmcvca4ustmt06qhleqkgito7ct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
